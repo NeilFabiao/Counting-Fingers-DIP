@@ -30,7 +30,7 @@ To count the number of fingers given an image, first one needs to understand the
 
 ![alt-text-1](/Project/output/Implementation0.png) ![alt-text-2](/Project/output/Implementation2.png)
 
-### References###
+### References
 
 1. Gonzalez, R. C. Woods, R. E. (2018), Digital image processing.
 
@@ -40,5 +40,5 @@ To count the number of fingers given an image, first one needs to understand the
 
 ### Who do I talk to? ###
 
-* Repo owner Neil Fabião -> @neilfabiao 
+* Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com
 
