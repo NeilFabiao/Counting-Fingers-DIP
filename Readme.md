@@ -9,8 +9,6 @@ This project was done using Matlab, and in the Project folder there are 3 other 
 To run any of the implementations located in src simply select a file, load the program in matlab and press run or build project. 
 With that said Implementation0 has the principles followed for the majority of the project and it follows implementation 1 where a sample image of my own hand was use to test the the ideas for this project. Lastly Implementation2 uses color image to test another version of implementation 0. 
 
-*Note:* The complete report for this project can only be will be made avaliable upon request altought sample summary is presented bellow.
-
 ### Understanding the Process ###
 
 To count the number of fingers given an image, first one needs to understand the principles of segmentation and connected component labelling. These are needed to be applied in a precise manner that allows the hand present in the image to once processed not leave undesired noise, an examople of steps is as follows:
