@@ -8,7 +8,7 @@ This project was done using Matlab, and in the Project folder there are 3 other 
 
 ### Understanding the Process ###
 
-To count the number of fingers given an image, first one needs to understand the principles of segmentation and connected component labelling. These are needed to be applied in a precise manner that allows the hand present in the image to once processed not leave undesired noise, an examople of steps is as follows:
+To count the number of fingers given an image, first one needs to understand the principles of segmentation and connected component labelling. These are needed to be applied in a precise manner that allows the hand present in the image to once processed not leave undesired noise, and an example of steps is as follows:
 
 1. Read image and analyse pixel values in the histogram.
 2. Given that the image is already in black and white with two distinct pixel regions, a threshold with the mean of the histogram is applied.
