@@ -37,3 +37,22 @@ To count the number of fingers given an image, first one needs to understand the
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com
 
+
+<!-- Primary Meta Tags -->
+<title>Counting Fingers DIP</title>
+<meta name="title" content="Counting Fingers DIP">
+<meta name="description" content="Learning how a 🖥 counts fingers in my 🖐🏾 using digital image processing principles !">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Counting Fingers DIP" />
+<meta property="og:url" content="https://github.com/NeilFabiao/Counting-Fingers-DIP" />
+<meta property="og:description" content="Learning how a 🖥 counts fingers in my 🖐🏾 using digital image processing principles !">
+<meta property="og:image" content="/Project/output/extradesign.png">
+<meta property="og:type" content="article" />
+
+
+<!-- Extra -->
+<meta property="og:locale" content="en_GB" />
+<meta property="og:locale:alternate" content="fr_FR" />
+<meta property="og:locale:alternate" content="es_ES" />
+
