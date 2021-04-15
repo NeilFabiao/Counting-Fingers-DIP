@@ -37,6 +37,7 @@ To count the number of fingers given an image, first one needs to understand the
 
 * Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com
 
+`Note: The card on the color section has expired 😁, the data is safe to use.`
 
 <!-- Primary Meta Tags -->
 <meta name="title" content="Counting Fingers DIP">
