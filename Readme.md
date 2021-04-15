@@ -39,7 +39,6 @@ To count the number of fingers given an image, first one needs to understand the
 
 
 <!-- Primary Meta Tags -->
-<title>Counting Fingers DIP</title>
 <meta name="title" content="Counting Fingers DIP">
 <meta name="description" content="Learning how a 🖥 counts fingers in my 🖐🏾 using digital image processing principles !">
 
