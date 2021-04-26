@@ -3,7 +3,7 @@
 This project was done using Matlab, and in the Project folder there are 3 other subsequent folders namely:
 
 * Data - where all the images used in each implementation are located.
-* src - or source code where each implementation counts fingers in their own different way. 
+* src - or source code where each implementation counts fingers in their own different way (temporarily removed until end of July). 
 * output - where the output files are located when the projects are built. 
 
 ### Understanding the Process ###
