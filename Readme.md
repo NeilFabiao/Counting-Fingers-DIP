@@ -27,11 +27,13 @@ To count the number of fingers given an image, first one needs to understand the
 
 ### References
 
-1. Gonzalez, R. C. Woods, R. E. (2018), Digital image processing.
+1. Digital Image Processing Lecturer @ Wits
 
-2. Github and google
+2.  Gonzalez, R. C. Woods, R. E. (2018), Digital image processing.
 
-3. https://github.com/black-shadows
+3. Github and google
+
+4. https://github.com/black-shadows
 
 ### Who do I talk to? ###
 
