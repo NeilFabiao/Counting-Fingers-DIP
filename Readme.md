@@ -37,7 +37,7 @@ To count the number of fingers given an image, first one needs to understand the
 
 ### Who do I talk to? ###
 
-* Repo owner Neil Fabião -> @neilfabiao or neilfabiao@gmail.com
+* Repo owner Neil Fabião -> @neilfabiao
 
 `Note: The card on the color section has expired 😁, the data is safe to use 👍🏾.`
 
